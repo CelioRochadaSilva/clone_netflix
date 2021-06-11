@@ -43,7 +43,7 @@ header nav a:hover{
 .filme-principal{
     font-size: 16px;
     background: linear-gradient(rgba(226, 218, 218, 0.50), rgba(0,0,0,.50)100%), url('/img/capa-house.jpg'); 
-    height: 550px;
+    height: 350px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -73,7 +73,6 @@ header nav a:hover{
     cursor: pointer;
     transition: .3s ease all;
    
-
 
 }
 .botao:hover{
